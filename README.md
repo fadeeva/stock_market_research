@@ -1,6 +1,5 @@
 [![Jupyter Notebook](https://img.shields.io/badge/Quant-Jupyter-orange)](https://jupyter.org/)
 [![Research](https://img.shields.io/badge/type-quant_research-blue)](#)
-[![Markets](https://img.shields.io/badge/focus-equities-green)](#)
 
 # Stock Market Research
 
